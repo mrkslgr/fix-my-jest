@@ -4,8 +4,6 @@ let ConstructorCommentedOutComponent = class ConstructorCommentedOutComponent ex
   }
   */
   ngOnInit() {
-    /* istanbul ignore next */
-    cov_xem0shl5v().f[0]++;
   }
 
 };
@@ -16,8 +14,6 @@ let ConstructorCommentedOutComponent = class ConstructorCommentedOutComponent ex
   //   super(fooService);
   //  }
   ngOnInit() {
-    /* istanbul ignore next */
-    cov_xem0shl5v().f[0]++;
   }
 
 };
